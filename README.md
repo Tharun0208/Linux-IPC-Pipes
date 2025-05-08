@@ -1,8 +1,8 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name:R Raihaan Ahmed 
-Regno: 212224040260
+Name:THARUN R 
+Regno: 212224240172
 
 # Ex03-Linux IPC - Pipes
 
